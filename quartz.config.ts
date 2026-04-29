@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "zh-CN",
-    baseUrl: "YOUR_USERNAME.github.io/kb",
+    baseUrl: "yuzhe1127.github.io/kb",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -95,5 +95,6 @@ const config: QuartzConfig = {
 }
 
 export default config
+
 
 
